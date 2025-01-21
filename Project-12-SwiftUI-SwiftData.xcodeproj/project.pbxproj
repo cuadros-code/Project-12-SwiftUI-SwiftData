@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1BA69BBD2D3FFC8200ED9259 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1BA69BBC2D3FFC8200ED9259 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		1BA69BBC2D3FFC8200ED9259 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1BC857F92D3F285600356034 /* Project-12-SwiftUI-SwiftData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project-12-SwiftUI-SwiftData.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +37,7 @@
 		1BC857F02D3F285600356034 = {
 			isa = PBXGroup;
 			children = (
+				1BA69BBC2D3FFC8200ED9259 /* README.md */,
 				1BC857FB2D3F285600356034 /* Project-12-SwiftUI-SwiftData */,
 				1BC857FA2D3F285600356034 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1BA69BBD2D3FFC8200ED9259 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

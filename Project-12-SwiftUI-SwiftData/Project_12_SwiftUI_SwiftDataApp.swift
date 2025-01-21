@@ -12,7 +12,7 @@ import SwiftData
 struct Project_12_SwiftUI_SwiftDataApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FilteringPredicateView()
         }
         .modelContainer(for: User.self)
     }
