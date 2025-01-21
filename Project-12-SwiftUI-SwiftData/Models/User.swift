@@ -4,8 +4,9 @@
 //
 //  Created by Kevin Cuadros on 21/01/25.
 //
-import SwiftData
+
 import Foundation
+import SwiftData
 
 @Model
 class User {

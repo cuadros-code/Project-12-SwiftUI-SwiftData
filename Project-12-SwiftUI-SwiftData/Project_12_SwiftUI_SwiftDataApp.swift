@@ -4,8 +4,9 @@
 //
 //  Created by Kevin Cuadros on 20/01/25.
 //
-import SwiftData
+
 import SwiftUI
+import SwiftData
 
 @main
 struct Project_12_SwiftUI_SwiftDataApp: App {
